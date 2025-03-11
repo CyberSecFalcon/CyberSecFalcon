@@ -1,9 +1,10 @@
 # Hello, I'm Patrick Essien
 <a href="https://www.linkedin.com/in/patrick-essien"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional with a passion for keeping individuals and organizations safe from cyber threats. With over 20 years of experience in electronic security protection, access control, and fire safety, I have a deep understanding of the importance of protecting people, assets, and data.
+
+My expertise in electronic security protection and fire safety has allowed me to transition into cybersecurity seamlessly, where I now focus on defending organizations and individuals with the necessary tools, processes, and training to keep threat actors out and their data safe. I am well-versed in using cybersecurity tools such as Splunk, Mitre framework, and Navigator to identify and mitigate risks.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
