@@ -7,9 +7,8 @@ I am a cybersecurity professional with a passion for keeping individuals and org
 My expertise in electronic security protection and fire safety has allowed me to transition into cybersecurity seamlessly, where I now focus on defending organizations and individuals with the necessary tools, processes, and training to keep threat actors out and their data safe. I am well-versed in using cybersecurity tools such as Splunk, Mitre framework, and Navigator to identify and mitigate risks.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Electronic Security Protection has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
